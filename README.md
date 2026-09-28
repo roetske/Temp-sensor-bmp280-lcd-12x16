@@ -24,7 +24,7 @@ info and info in code so important. <br />
 eg version board used for programming connections , version of your program<br />
 structure  in code eg configurations and the use of global variables for settings <br />
 
-ai was very heloful but you have to ask the right questions what you want! <br />
+ai was very helpful but you have to ask the right questions what you want! <br />
 when it was almost finished i asked use 6sigma to see what can still be improved.<br />
 this was a gamechanger for me of the power of ai<br />
 answer ai improvements:<br />
