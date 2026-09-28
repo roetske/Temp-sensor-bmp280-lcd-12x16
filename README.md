@@ -40,7 +40,7 @@ the right commands in c++ or use of the libraries how to implement.<br />
 # status =>under contruction 
 all code is tested and running<br />
 now making , integrating in casing <br />
-implemeting led wfi status has still to be done<br />
+implementing led wfi status has still to be done<br />
 
 
 
