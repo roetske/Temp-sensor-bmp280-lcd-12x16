@@ -10,13 +10,14 @@ led wifi on /off<br />
 arduino ide <br />
 Full project together with ai <br />
 wifi via wifimanager<br />
+makes its own ap then 192.168.4.1 where a nice webpage is provided to select wifi and password<br />
 produces also on name webpage info <br />
 Lcd refresh char only that need to be changed<br />
 no annoying blinking when lcd messages change<br />
 view temp -time<br />
      day date<br />
 option backlight off during nighthours<br />
-via serial => all data<br />
+via serial => all data i find this for debugging important<br />
 mqtt provided ready<br />
 
 # remarks
