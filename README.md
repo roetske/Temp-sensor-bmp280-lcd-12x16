@@ -37,6 +37,13 @@ answer ai improvements:<br />
 This is  a revolution in making projects. The trouble before was finding <br />
 the right commands in c++ or use of the libraries how to implement.<br />
 
+had some issues hwen wifi is down, did not want to reconnect.<br />
+v15.3 <br />
+if wifi is down and comes backup it reconnects.<br />
+ap is available to go  to another wifi .<br />
+if connected then ap goes down again.<br />
+
+
 # status =>under contruction 
 all code is tested and running<br />
 now making , integrating in casing <br />
